@@ -1,0 +1,16 @@
+body {
+  background-size: cover;
+}
+
+#weather-info {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  margin-top: 20%;
+  font-size: 36px;
+  color: lightGray;
+  text-shadow: 2px 2px 5px black;
+}
+
+button {
+  margin-bottom: 20px;
+}
